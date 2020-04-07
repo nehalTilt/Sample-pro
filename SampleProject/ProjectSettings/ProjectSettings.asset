@@ -664,10 +664,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 86f858dc-6fe0-4c29-bcf8-6bcefeccd174
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: SampleProject
+  organizationId: nehal-v
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
